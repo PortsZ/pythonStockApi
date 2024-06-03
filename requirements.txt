@@ -1,0 +1,5 @@
+fastapi
+yfinance
+pytz
+pandas
+numpy
